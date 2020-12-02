@@ -1,0 +1,61 @@
+{
+  "fake-camps": [
+    {
+      "group_name": "Camp Name",
+      "uid": "Math.random()",
+      "dates": "May 1 - 12, 2021",
+      "location": "SB Camp Park",
+      "ages": "4 - 7",
+      "description": "Nulla elementum dignissim sollicitudin. Praesent non tristique tellus. Proin dignissim, nibh nec mattis eleifend, sem augue dapibus leo, ut facilisis eros lectus ut mauris. Etiam sit amet dignissim lorem. Vestibulum urna turpis, vulputate vitae vestibulum pharetra, condimentum vitae erat. Mauris gravida felis at magna hendrerit, nec lobortis nibh ullamcorper. Phasellus mauris diam, laoreet vel pulvinar vitae, eleifend eget mauris. Donec in."
+    },
+    {
+      "group_name": "Camp Name",
+      "uid": "Math.random()",
+      "dates": "May 1 - 12, 2021",
+      "location": "SB Camp Park",
+      "ages": "4 - 7",
+      "description": "Nulla elementum dignissim sollicitudin. Praesent non tristique tellus. Proin dignissim, nibh nec mattis eleifend, sem augue dapibus leo, ut facilisis eros lectus ut mauris. Etiam sit amet dignissim lorem. Vestibulum urna turpis, vulputate vitae vestibulum pharetra, condimentum vitae erat. Mauris gravida felis at magna hendrerit, nec lobortis nibh ullamcorper. Phasellus mauris diam, laoreet vel pulvinar vitae, eleifend eget mauris. Donec in."
+    },
+    {
+      "group_name": "Camp Name",
+      "uid": "Math.random()",
+      "dates": "May 1 - 12, 2021",
+      "location": "SB Camp Park",
+      "ages": "4 - 7",
+      "description": "Nulla elementum dignissim sollicitudin. Praesent non tristique tellus. Proin dignissim, nibh nec mattis eleifend, sem augue dapibus leo, ut facilisis eros lectus ut mauris. Etiam sit amet dignissim lorem. Vestibulum urna turpis, vulputate vitae vestibulum pharetra, condimentum vitae erat. Mauris gravida felis at magna hendrerit, nec lobortis nibh ullamcorper. Phasellus mauris diam, laoreet vel pulvinar vitae, eleifend eget mauris. Donec in."
+    },
+    {
+      "group_name": "Camp Name",
+      "uid": "Math.random()",
+      "dates": "May 1 - 12, 2021",
+      "location": "SB Camp Park",
+      "ages": "4 - 7",
+      "description": "Nulla elementum dignissim sollicitudin. Praesent non tristique tellus. Proin dignissim, nibh nec mattis eleifend, sem augue dapibus leo, ut facilisis eros lectus ut mauris. Etiam sit amet dignissim lorem. Vestibulum urna turpis, vulputate vitae vestibulum pharetra, condimentum vitae erat. Mauris gravida felis at magna hendrerit, nec lobortis nibh ullamcorper. Phasellus mauris diam, laoreet vel pulvinar vitae, eleifend eget mauris. Donec in."
+    },
+    {
+      "group_name": "Camp Name",
+      "uid": "Math.random()",
+      "dates": "May 1 - 12, 2021",
+      "location": "SB Camp Park",
+      "ages": "4 - 7",
+      "description": "Nulla elementum dignissim sollicitudin. Praesent non tristique tellus. Proin dignissim, nibh nec mattis eleifend, sem augue dapibus leo, ut facilisis eros lectus ut mauris. Etiam sit amet dignissim lorem. Vestibulum urna turpis, vulputate vitae vestibulum pharetra, condimentum vitae erat. Mauris gravida felis at magna hendrerit, nec lobortis nibh ullamcorper. Phasellus mauris diam, laoreet vel pulvinar vitae, eleifend eget mauris. Donec in."
+    },
+    {
+      "group_name": "Camp Name",
+      "uid": "Math.random()",
+      "dates": "May 1 - 12, 2021",
+      "location": "SB Camp Park",
+      "ages": "4 - 7",
+      "description": "Nulla elementum dignissim sollicitudin. Praesent non tristique tellus. Proin dignissim, nibh nec mattis eleifend, sem augue dapibus leo, ut facilisis eros lectus ut mauris. Etiam sit amet dignissim lorem. Vestibulum urna turpis, vulputate vitae vestibulum pharetra, condimentum vitae erat. Mauris gravida felis at magna hendrerit, nec lobortis nibh ullamcorper. Phasellus mauris diam, laoreet vel pulvinar vitae, eleifend eget mauris. Donec in."
+    },
+    {
+      "group_name": "Camp Name",
+      "uid": "Math.random()",
+      "dates": "May 1 - 12, 2021",
+      "location": "SB Camp Park",
+      "ages": "4 - 7",
+      "description": "Nulla elementum dignissim sollicitudin. Praesent non tristique tellus. Proin dignissim, nibh nec mattis eleifend, sem augue dapibus leo, ut facilisis eros lectus ut mauris. Etiam sit amet dignissim lorem. Vestibulum urna turpis, vulputate vitae vestibulum pharetra, condimentum vitae erat. Mauris gravida felis at magna hendrerit, nec lobortis nibh ullamcorper. Phasellus mauris diam, laoreet vel pulvinar vitae, eleifend eget mauris. Donec in."
+    }
+  ]
+}
+
